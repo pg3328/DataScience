@@ -14,8 +14,8 @@ import pickle
 from DataCleaningAndProcessing import data_cleanup, group_data_category, build_model, \
     reverse_encoding, data_encoding
 AWS_REGION = 'us-east-1'
-ACCESS_KEY_ID = 'AKIA345V3YS6WKLF5M5S'
-ACCESS_KEY = 'IVrnJSAYovUQMl2BfqQtQNXndpHjq6lmnX8RRf5I'
+ACCESS_KEY_ID = '***'
+ACCESS_KEY = '****'
 DOMAIN_NAME = "University"
 
 
